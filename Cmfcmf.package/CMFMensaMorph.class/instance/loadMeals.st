@@ -1,5 +1,7 @@
 as yet unclassified
 loadMeals
-	| response |
-	response := WebClient httpGet: 'https://openmensa.org/api/v2/canteens/62/days/2019-04-25/meals'.
+	| response url |
+	url := 'https://openmensa.org/api/v2/canteens/62/days/', Date today yyyymmdd, '/meals'.
+	url explore.
+	response := WebClient httpGet: url.
 	self meals: (Json readFrom: response content readStream)

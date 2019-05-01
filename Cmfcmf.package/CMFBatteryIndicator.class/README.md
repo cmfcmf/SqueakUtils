@@ -1,0 +1,1 @@
+I regularly ask the operating system about the current battery state. 
