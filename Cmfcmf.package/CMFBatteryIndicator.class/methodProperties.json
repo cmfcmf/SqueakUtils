@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"getBatteryInfo:" : "cf 4/25/2019 16:25",
-		"initialize" : "cf 4/27/2019 08:28",
-		"step" : "cf 4/25/2019 08:56",
-		"stepTime" : "cf 4/25/2019 08:43",
-		"updateBattery" : "cf 4/25/2019 13:47" } }

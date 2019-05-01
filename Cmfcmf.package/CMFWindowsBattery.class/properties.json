@@ -4,12 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "cf 5/1/2019 12:26",
+	"commentStamp" : "cf 5/1/2019 13:54",
 	"instvars" : [
-		"percentage",
-		"icon" ],
-	"name" : "CMFBatteryIndicator",
+		 ],
+	"name" : "CMFWindowsBattery",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "CMFBattery",
 	"type" : "normal" }

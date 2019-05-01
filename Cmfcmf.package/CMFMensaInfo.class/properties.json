@@ -8,7 +8,7 @@
 	"instvars" : [
 		"meals",
 		"selectedIndex" ],
-	"name" : "CMFMensaMorph",
+	"name" : "CMFMensaInfo",
 	"pools" : [
 		 ],
 	"super" : "Model",

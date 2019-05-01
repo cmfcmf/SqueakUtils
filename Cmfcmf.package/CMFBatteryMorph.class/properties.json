@@ -1,0 +1,16 @@
+{
+	"category" : "Cmfcmf",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cf 5/1/2019 13:53",
+	"instvars" : [
+		"percentage",
+		"icon",
+		"battery" ],
+	"name" : "CMFBatteryMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
