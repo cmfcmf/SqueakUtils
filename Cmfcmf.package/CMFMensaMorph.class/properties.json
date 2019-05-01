@@ -1,0 +1,15 @@
+{
+	"category" : "Cmfcmf",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"meals",
+		"selectedIndex" ],
+	"name" : "CMFMensaMorph",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

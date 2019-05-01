@@ -1,0 +1,17 @@
+{
+	"category" : "Cmfcmf",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"morphInitBlock",
+		"testee",
+		"methodDict",
+		"watchProcess" ],
+	"name" : "CMFLiveUpdateMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
