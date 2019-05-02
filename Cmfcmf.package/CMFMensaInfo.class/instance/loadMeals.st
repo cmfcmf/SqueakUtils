@@ -1,6 +1,5 @@
 as yet unclassified
 loadMeals
-	| response url |
-	url := 'https://openmensa.org/api/v2/canteens/62/days/', Date today yyyymmdd, '/meals'.
-	response := WebClient httpGet: url.
-	self meals: (Json readFrom: response content readStream)
+	self meals: 
+		(self fetchMealsFor: 'Mensa' withId: 62), 
+		(self fetchMealsFor: 'Ulf''s Café' withId: 112)
