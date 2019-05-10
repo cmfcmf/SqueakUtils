@@ -1,0 +1,14 @@
+{
+	"category" : "Cmfcmf",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CMFMulticolumnLazyListMorph",
+	"pools" : [
+		 ],
+	"super" : "MulticolumnLazyListMorph",
+	"type" : "normal" }

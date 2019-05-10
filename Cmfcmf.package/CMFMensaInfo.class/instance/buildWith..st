@@ -6,13 +6,13 @@ buildWith: aBuilder
 			label: 'Mensa';
 			extent: 650@150;
 			children: {
-				aBuilder pluggableMultiColumnListSpec new
+				aBuilder cmfPluggableMultiColumnListSpec new
 					model: self;
 					list: #list;
 					getIndex: #selectedIndex;
 					setIndex: #selectedIndex:;
 					clearFilterAutomatically: true;
 					filterableList: true;
-					frame: (LayoutFrame fractions: (0@0 extent: 1@1))
+					frame: (0@0 corner: 1@1)
 			}
 			yourself)

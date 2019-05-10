@@ -1,0 +1,3 @@
+*Cmfcmf
+cmfPluggableMultiColumnListSpec
+	^CMFPluggableMultiColumnListSpec

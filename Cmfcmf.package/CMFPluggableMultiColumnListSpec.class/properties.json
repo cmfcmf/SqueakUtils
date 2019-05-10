@@ -1,0 +1,14 @@
+{
+	"category" : "Cmfcmf",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CMFPluggableMultiColumnListSpec",
+	"pools" : [
+		 ],
+	"super" : "PluggableMultiColumnListSpec",
+	"type" : "normal" }
