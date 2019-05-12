@@ -1,2 +1,2 @@
-SystemOrganization addCategory: #'Cmfcmf-FFI'!
+SystemOrganization addCategory: #'Cmfcmf-WinFFI'!
 SystemOrganization addCategory: #Cmfcmf!
