@@ -1,0 +1,1 @@
+I am a representation of a Unix' computer's battery.

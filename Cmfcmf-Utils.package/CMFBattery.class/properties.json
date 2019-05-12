@@ -1,0 +1,14 @@
+{
+	"category" : "Cmfcmf-Utils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cf 5/1/2019 13:53",
+	"instvars" : [
+		 ],
+	"name" : "CMFBattery",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

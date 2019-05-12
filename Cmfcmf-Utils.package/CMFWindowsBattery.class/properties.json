@@ -1,0 +1,14 @@
+{
+	"category" : "Cmfcmf-Utils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cf 5/1/2019 13:54",
+	"instvars" : [
+		 ],
+	"name" : "CMFWindowsBattery",
+	"pools" : [
+		 ],
+	"super" : "CMFBattery",
+	"type" : "normal" }
