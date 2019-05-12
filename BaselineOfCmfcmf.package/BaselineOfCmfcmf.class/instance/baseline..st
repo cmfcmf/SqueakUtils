@@ -3,7 +3,7 @@ baseline: spec
 <baseline>
 	spec for: #'common' do: [
 		spec
-			project: 'FFI' with: [
+			package: 'FFI' with: [
 				spec
 					repository: 'http://www.squeaksource.com/MetacelloRepository';
 					versionString: #development;
