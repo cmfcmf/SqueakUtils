@@ -1,6 +1,7 @@
 as yet unclassified
 updateBattery
-	| charge |
+	| battery charge |
+	battery := CMFBattery forCurrentPlatform.
 	charge := battery chargeLevel.
 	charge ifNil: [
 		percentage contents: '??%'.

@@ -2,7 +2,6 @@ initialization
 initialize
 	super initialize.
 	self color: Color transparent.
-	battery := CMFBattery forCurrentPlatform.
 	percentage := StringMorph contents: '??%'.
 	icon := ImageMorph new.
 	icon image: UiFugueIcons batteryExclamationIcon.

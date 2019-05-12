@@ -7,8 +7,7 @@
 	"commentStamp" : "cf 5/1/2019 13:53",
 	"instvars" : [
 		"percentage",
-		"icon",
-		"battery" ],
+		"icon" ],
 	"name" : "CMFBatteryMorph",
 	"pools" : [
 		 ],
