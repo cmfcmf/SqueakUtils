@@ -8,7 +8,7 @@ baseline: spec
 				project: 'FFI' with: [
 					spec
 						repository: 'http://www.squeaksource.com/MetacelloRepository';
-						versionString: #'1.4-baseline';
+						versionString: #development;
 						className: 'ConfigurationOfFFI';
 						loads: #('Core')];
 				package: 'Cmfcmf-WinFFI' with: [spec requires: 'FFI'];
