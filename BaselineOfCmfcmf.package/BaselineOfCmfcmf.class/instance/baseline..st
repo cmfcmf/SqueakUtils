@@ -13,7 +13,7 @@ baseline: spec
 				spec repository: 'http://www.hpi.uni-potsdam.de/hirschfeld/squeaksource/SwaUtilities'];
 			package: 'Cmfcmf-ToolBuilder';
 			package: 'Cmfcmf-WinFFI' with: [spec requires: #('FFI')];
-			package: 'Cmfcmf-Utils' with: [spec requires: #('Cmfcmf-WinFFI' 'Cmfcmf-ToolBuilder Icons')].
+			package: 'Cmfcmf-Utils' with: [spec requires: #('Cmfcmf-WinFFI' 'Cmfcmf-ToolBuilder' 'Icons')].
 		spec
 			group: 'default' with: #('Cmfcmf-Utils');
 			group: 'toolbuilder' with: #('Cmfcmf-ToolBuilder');
