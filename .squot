@@ -1,3 +1,4 @@
 OrderedDictionary {
-	'Cmfcmf.package' : #SquotCypressCodeSerializer
+	'Cmfcmf.package' : #SquotCypressCodeSerializer,
+	'BaselineOfCmfcmf.package' : #SquotCypressCodeSerializer
 }
