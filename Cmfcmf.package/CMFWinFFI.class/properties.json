@@ -1,0 +1,14 @@
+{
+	"category" : "Cmfcmf-FFI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CMFWinFFI",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
