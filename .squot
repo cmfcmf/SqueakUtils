@@ -2,6 +2,5 @@ OrderedDictionary {
 	'BaselineOfCmfcmf.package' : #SquotCypressCodeSerializer,
 	'Cmfcmf-ToolBuilder.package' : #SquotCypressCodeSerializer,
 	'Cmfcmf-Utils.package' : #SquotCypressCodeSerializer,
-	'Cmfcmf-WinFFI.package' : #SquotCypressCodeSerializer,
-	'Cmfcmf.package' : #SquotCypressCodeSerializer
+	'Cmfcmf-WinFFI.package' : #SquotCypressCodeSerializer
 }
