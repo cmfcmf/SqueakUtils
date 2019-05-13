@@ -1,4 +1,0 @@
-accessing
-meals
-
-	^ meals

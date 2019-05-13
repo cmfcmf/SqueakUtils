@@ -1,1 +1,0 @@
-I display a list of today's mensa Griebnitzsee meals.

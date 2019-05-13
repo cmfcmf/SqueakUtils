@@ -1,1 +1,0 @@
-I am a representation of a Windows' computer's battery.
