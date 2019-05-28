@@ -12,6 +12,6 @@ updateBattery
 			[battery isCharging] -> [UiFugueIcons batteryPlugIcon].
 			[charge >= 80] -> [UiFugueIcons batteryFullIcon].
 			[charge >= 50] -> [UiFugueIcons batteryIcon].
-			[charge >= 35] -> [UiFugueIcons batteryLowIcon]
-		} otherwise: [UiFugueIcons batteryExclamationIcon])
+			[charge >= 35] -> [UiFugueIcons batteryExclamationIcon]
+		} otherwise: [UiFugueIcons batteryLowIcon])
 	]

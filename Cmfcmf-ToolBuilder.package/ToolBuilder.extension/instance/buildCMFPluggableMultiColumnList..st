@@ -1,0 +1,3 @@
+*Cmfcmf-ToolBuilder
+buildCMFPluggableMultiColumnList: aSpec
+	^self subclassResponsibility

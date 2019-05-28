@@ -1,0 +1,3 @@
+*Cmfcmf-ToolBuilder
+cmfPluggableMultiColumnListSpec
+	^CMFPluggableMultiColumnListSpec
