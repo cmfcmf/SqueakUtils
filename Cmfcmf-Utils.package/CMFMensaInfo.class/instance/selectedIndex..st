@@ -1,3 +1,5 @@
 accessing
-selectedIndex: anObject
-	selectedIndex := anObject.
+selectedIndex: anInteger
+
+	selectedIndex := anInteger.
+	self changed: #selectedIndex
