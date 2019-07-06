@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"changeNetworkInteractively" : "cmfcmf 7/6/2019 22:49",
+		"iconForWiFiSignalStrength:" : "cmfcmf 7/6/2019 13:36",
+		"initialize" : "cmfcmf 7/6/2019 22:49",
+		"step" : "cmfcmf 7/6/2019 22:49",
+		"stepTime" : "cmfcmf 7/6/2019 17:59",
+		"updateDisplayedWiFiStatus" : "cmfcmf 7/6/2019 22:49",
+		"wifi" : "cmfcmf 7/6/2019 13:38" } }

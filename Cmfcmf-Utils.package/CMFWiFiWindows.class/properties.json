@@ -1,0 +1,14 @@
+{
+	"category" : "Cmfcmf-Utils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CMFWiFiWindows",
+	"pools" : [
+		 ],
+	"super" : "CMFWiFi",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Cmfcmf-Utils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nameMorph",
+		"iconMorph" ],
+	"name" : "CMFWiFiMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+connectedSSIDAndSignalStrength
+
+	self subclassResponsibility

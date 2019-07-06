@@ -1,0 +1,4 @@
+private
+wifi
+
+	^ CMFWiFi forCurrentPlatform

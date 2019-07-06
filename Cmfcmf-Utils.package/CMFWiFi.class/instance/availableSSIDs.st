@@ -1,0 +1,4 @@
+accessing
+availableSSIDs
+
+	self subclassResponsibility
