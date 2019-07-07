@@ -1,0 +1,14 @@
+{
+	"category" : "Cmfcmf-Utils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CleanUpWhenStartingGraalSqueak" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CMFGraalSqueakImagePreparation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
