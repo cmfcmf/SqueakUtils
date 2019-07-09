@@ -10,9 +10,8 @@ initialize
 		hResizing: #shrinkWrap;
 		vResizing: #shrinkWrap;
 		listDirection: #leftToRight;
-		addMorphBack: (nameMorph := StringMorph new
-			eventHandler: (EventHandler new
-				on: #mouseDown send: #changeNetworkInteractively to: self);
-			yourself);
+		addMorphBack: (nameMorph := StringMorph new);
 		addMorphBack: (iconMorph := ImageMorph new);
-		updateDisplayedWiFiStatus
+		eventHandler: (EventHandler new
+			on: #mouseDown send: #changeNetworkInteractively to: self);
+		startStepping
