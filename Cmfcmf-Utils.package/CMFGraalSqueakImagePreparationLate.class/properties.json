@@ -3,12 +3,11 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"AdditionalGraalSqueakStartUpCode",
-		"CleanUpWhenStartingGraalSqueak" ],
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "CMFGraalSqueakImagePreparation",
+	"name" : "CMFGraalSqueakImagePreparationLate",
 	"pools" : [
 		 ],
 	"super" : "Object",

@@ -1,7 +1,8 @@
 {
 	"class" : {
+		"additionalGraalSqueakStartUpCode" : "cmfcmf 7/22/2019 18:19",
 		"cleanUpWhenStartingGraalSqueak" : "cmfcmf 7/7/2019 22:05",
-		"initialize" : "cmfcmf 7/7/2019 22:05",
-		"startUp:" : "cmfcmf 7/7/2019 22:05" },
+		"initialize" : "cmfcmf 7/22/2019 19:03",
+		"startUp:" : "cmfcmf 7/22/2019 19:01" },
 	"instance" : {
 		 } }
