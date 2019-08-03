@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "CMFWinFFI",
+	"name" : "CMFFFILongPointer",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "ProcessLocalVariable",
 	"type" : "normal" }
