@@ -66,7 +66,7 @@ Metacello new
 	load: #('winffi').
 ```
   
-## Toolbuilder Extensions
+## Toolbuilder Extensions (broken in Squeak 5.3+)
 
 I provide a customized `PluggableMultiColumnListMorph` and spec. In contrast to the default implementation, it has gained the following enhancements:
 - the list is filterable
