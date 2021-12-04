@@ -7,7 +7,9 @@ baseline: spec
 				spec
 					className: 'ConfigurationOfFFI';
 					repository: 'http://www.squeaksource.com/MetacelloRepository';
-					versionString: #development;
+					versionString: (SystemVersion current isAlpha
+						ifTrue: [#development]
+						ifFalse: [#stable]);
 					loads: #('Core')];
 			package: 'Icons' with: [
 				spec repository: 'http://www.hpi.uni-potsdam.de/hirschfeld/squeaksource/SwaUtilities'];
